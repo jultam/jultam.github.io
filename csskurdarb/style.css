@@ -1,0 +1,39 @@
+h1{
+    color: #00004d;
+    font-size: 50;
+    text-align: center;
+}
+h2{
+    color: darkolivegreen;
+    font-size: 30;
+    text-align: center;
+}
+p{
+    color: darkgreen;
+    font-size: 20;
+    text-align: center;
+}
+p.imges{
+    text-align: center;
+}
+body{
+    background-color: lightgreen;
+}
+h2.purple{
+    color: purple;
+    font-family: 'Times New Roman';
+}
+li{
+    color: green;
+    font-size: 20;
+    text-align: center;
+}
+li.strong{
+    color: darkslategrey;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#name{
+    font-size: 15;
+    color: black;
+    text-align: center;
+}

@@ -1,0 +1,46 @@
+/*text*/
+h1{
+    text-align: center;
+}
+h1.antraste{
+    font-size: 40px;
+}
+/*lentele*/
+table, th{
+    border: solid 1px darkred;
+    background-color: bisque;
+}
+table{
+    width: 50%;
+}
+th{
+    height: 50px;
+}
+th.tpic{
+    height: 350px;
+}
+/*img+link*/
+img{
+    height: 300px;
+}
+img.pic:hover{
+    height: 320px;
+}
+a{
+    text-decoration-line: none;
+}
+a.link{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+a.link:hover{
+    font-size: 20px; 
+    color: brown;
+    text-decoration-line: none;
+}
+/*oth*/
+#name{
+    text-align: center;
+    color: black;
+    font-size: 15;
+}
